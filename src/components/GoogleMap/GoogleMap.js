@@ -10,8 +10,8 @@ function GoogleMap({ address }) {
 
   const defaultProps = {
     center: {
-      lat: lat || -34,
-      lng: lng || 151
+      lat: lat || 32.743637,
+      lng: lng || -97.331863
     }
   }
 

@@ -17,10 +17,10 @@ export default function NavBar() {
 
   return (
     <Box sx={{ flexGrow: 1 }}>
-      <AppBar style={{ backgroundColor: "#3CB371" }} position="static">
+      <AppBar style={{ backgroundColor: "#4682B4" }} position="static">
         <Toolbar className={styles.toolBar}>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Austin Small Business
+            Fort Worth Small Business
           </Typography>
           <div>
             <Button style={{ textTransform: "none" }} color="inherit">
