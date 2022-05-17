@@ -5,7 +5,7 @@ import {
 } from '@material-ui/core';
 
 import GoogleMap from '../GoogleMap/GoogleMap';
-import styles from './addListing.module.css';
+import styles from './addlisting.module.css';
 
 export default function AddListing({ businesses, addListing }) {
   console.log('add listing props:', businesses.length)
